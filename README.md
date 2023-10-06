@@ -12,8 +12,12 @@ Comprehensive Survey and Beyond**
 Paired Supervision**
 [[Paper]](https://arxiv.org/pdf/1906.06972.pdf)
 [[Code]](https://github.com/VITA-Group/EnlightenGAN)
+**Learning a Simple Low-light Image Enhancer from Paired Low-light Instances**
+[[Paper]](https://openaccess.thecvf.com/content/CVPR2023/papers/Fu_Learning_a_Simple_Low-Light_Image_Enhancer_From_Paired_Low-Light_Instances_CVPR_2023_paper.pdf)
+[[Code]](https://github.com/zhenqifu/PairLIE)
 # Semi-Supervised Learning
 # Zero-Shot Learning
 **Learning to Enhance Low-Light Image via Zero-Reference Deep Curve Estimation**
 [[Paper]](https://arxiv.org/pdf/2103.00860.pdf)
+
 
