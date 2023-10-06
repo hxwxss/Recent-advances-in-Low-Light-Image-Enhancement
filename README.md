@@ -14,7 +14,6 @@ Paired Supervision**
 [[Code]](https://github.com/VITA-Group/EnlightenGAN)
 # Semi-Supervised Learning
 # Zero-Shot Learning
-**Learning to Enhance Low-Light Image
-via Zero-Reference Deep Curve Estimation
-**
-[[Paper](https://arxiv.org/pdf/2103.00860.pdf)]
+**Learning to Enhance Low-Light Image via Zero-Reference Deep Curve Estimation**
+[[Paper]](https://arxiv.org/pdf/2103.00860.pdf)
+
